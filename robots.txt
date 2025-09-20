@@ -1,0 +1,9 @@
+# Robots.txt para Personajes La Tienda
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tudominio.com/sitemap.xml
+
+# Crawl-delay para ser respetuoso con los servidores
+Crawl-delay: 1
